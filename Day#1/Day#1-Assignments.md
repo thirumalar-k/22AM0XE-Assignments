@@ -25,11 +25,10 @@
 > Pls don't copy from others. Marks will be reduced for both students
 
 #### #1 [ML] Complete the learning path : https://developers.google.com/codelabs/tensorflow-1-helloworld and add the details in the Github repo
-> Add your answer here!
-> - Completion Badge
-> - Completion Screenshot	
+![image](https://github.com/user-attachments/assets/a9a447d0-a84d-419c-b97c-3047bdda7f94)
+![image](https://github.com/user-attachments/assets/5e93b766-8e0f-4d1c-881f-a798892ad9a0)
 
-***
+
 
 #### #2 Install VSCode and Python. Check the version of Python. Document these steps in GitHub Wiki
 > Add your answer here!
