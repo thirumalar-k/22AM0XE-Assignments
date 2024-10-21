@@ -52,15 +52,9 @@
 ***
 
 #### #6 Which products or applications are hosted on the following cloud platforms, and could you also provide their logos and relevant details? 
-- For example:
-- Amazon Prime (Hosted on AWS)
-  - Logo: Place the logo here
-  - Details: A popular streaming service offering a vast collection of movies, TV shows, and exclusive content to users worldwide.
-
-> Add your answer here!
-
-***
-
+- NETFLIX (Hosted on AWS)
+  - Logo:![image](https://github.com/user-attachments/assets/7d9e7ad7-3f0b-4bde-adcf-d1e1fff1ef9a)
+  - Details: Netflix is a leading streaming service that offers a wide variety of movies, TV shows, anime, documentaries, and more on thousands of internet-connected devices.
 #### #7 Create a Github account with personal mail ID and fork the repo https://github.com/SanthoshNC/22AM0XE-Assignments
 > Add your answer here!
 
