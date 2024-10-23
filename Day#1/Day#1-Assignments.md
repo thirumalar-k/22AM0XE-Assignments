@@ -43,6 +43,8 @@
 > - Write Python code to print "Hello, World!" in the notebook.
 > - Import the NumPy library and create a 2x2 matrix, then print it.
 > - Load a small dataset (e.g., Iris dataset) from an online source, display the first five rows, and provide a brief explanation of the dataset.
+![image](https://github.com/user-attachments/assets/fb7add59-a670-446b-9dda-5802d222d0b3)
+https://colab.research.google.com/drive/1COxM4oz4DZnpysy-P9B2PN_fLpwFgQIp?usp=sharing
 
 
 
