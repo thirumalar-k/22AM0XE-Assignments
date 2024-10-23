@@ -51,16 +51,9 @@
   - Logo:![image](https://github.com/user-attachments/assets/7d9e7ad7-3f0b-4bde-adcf-d1e1fff1ef9a)
   - Details: Netflix is a leading streaming service that offers a wide variety of movies, TV shows, anime, documentaries, and more on thousands of internet-connected devices.
 #### #5 Create a Github account with personal mail ID and fork the repo https://github.com/SanthoshNC/22AM0XE-Assignments
-> Add your answer here!
-
-***
+![image](https://github.com/user-attachments/assets/1a97aff0-5166-4a9e-a8cc-1142b37a2be1)
 
 #### #6 Create a LinkedIn account with personal mail ID
-> Add your answer here!
-
-***
-
-#### #8 Create a LinkedIn account with personal mail ID
 ![image](https://github.com/user-attachments/assets/5888124b-1a7d-4703-a343-64f01eacc0a3)
 
 
